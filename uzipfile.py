@@ -1,6 +1,6 @@
 from zipfile import ZipFile 
   
-file_name = "Student.zip"
+file_name = "filename.zip"
   
 with ZipFile(file_name, 'r') as zip: 
    
